@@ -10,5 +10,5 @@
 - ⚡ Fun fact: I enjoy  sports , codeing and listening to songs. I spend almost 2 hours a day  in listening romantic HINDI songs 😍😁..
 Being a sportsguy I love making matches in the field and developing match-making scence in your browser or mobile screen. 😉👍
 
-<img src="https://github-readme-stats.vercel.app/api?username=SUBHADEEP96&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=1565c0">
+<img src="https://github-readme-stats.vercel.app/api?username=SUBHADEEP96&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=1565c0" align="center">
 
