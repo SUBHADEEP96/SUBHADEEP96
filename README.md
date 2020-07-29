@@ -1,7 +1,7 @@
 ### Hi , I'm Subhadeep Paul 👋
 
 
-- 🔭 I’m currently working with React js, React Native , Node js, CI, Php, liquid , REST , GraphQl
+- 🔭 I’m currently working with React js, React Native , Node js, CI, Php, liquid , REST , GraphQl, Shopify App Dev, Liquid
 - 🌱 I’m currently learning Electron.js , Machine Learning using Python
 - 👯 I’m looking to collaborate on any MERN Stack project (Mobile App, Web App, Desktop App)
 - 🤔 I’m looking for help with Machine learning
