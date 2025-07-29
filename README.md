@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working with Generative AI, Agentic AI, AI Agents, and LLMs.
-- 💻 My AI Stack includes: LangChain • LangGraph • LLMs (GPTs and open-source) • RAG • MCP • AI SDKs • Azure OpenAI • Semantic Kernel • Whisper • Azure Video Indexer • Autogen • A2A protocol
+- 💻 My AI Stack includes: LangChain • LangGraph • Crew AI • LLMs (GPTs and open-source) • RAG • MCP • AI SDKs • Azure OpenAI • Semantic Kernel • Whisper • Azure Video Indexer • Autogen • A2A protocol
 - 🛠️ My Full Stack Development Stack includes:
 
       Frontend: React.js • Next.js • Remix.js • React Native • Redux 
@@ -25,8 +25,6 @@
 
 - 💬 Ask me about anything 
 - 📫 How to reach me:  [LinkedIn]([-> Connect Me](https://www.linkedin.com/in/subhadeep1996/))  , subhadeep2040@gmail.com
-- ⚡ Fun fact: I enjoy  sports , coding and listening to songs. I spend almost 2 hours a day  in listening romantic HINDI songs 😍😁..
-Being a sportsguy I love making matches in the field and developing match-making scence in your browser or mobile screen. 😉👍
+- ⚡ Fun fact: When I'm not coding, you'll find me smashing it in **Cricket** and **Table Tennis**, or vibing to **romantic Hindi songs** for a solid 2-4 hours a day 😍🎧.
 
-<img src="https://github-readme-stats.vercel.app/api?username=SUBHADEEP96&&show_icons=true&title_color=ffffff&icon_color=ffffff&text_color=daf7dc&bg_color=1565c0" align="center">
 
