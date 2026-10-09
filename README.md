@@ -1,5 +1,5 @@
 # Hi , I'm Subhadeep Paul 👋 
-### An experienced software engineer with 6+ years of experience connecting humans to software and systems to each other — now diving deep into the world of Generative AI and Agentic AI, crafting intelligent, autonomous digital ecosystems. 
+### An experienced software engineer with 7+ years of experience connecting humans to AI powered softwares and systems to each other — now diving deep into the world of Generative AI and Agentic AI, crafting intelligent, autonomous digital ecosystems. 
 
 
 - 🔭 I’m currently working with Generative AI, Agentic AI, AI Agents, and LLMs.
