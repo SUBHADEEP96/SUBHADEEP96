@@ -8,7 +8,7 @@
 
       Frontend: React.js • Next.js • Remix.js • React Native • Redux 
       
-      Backend: Node.js • Express.js • TypeScript • PHP • Laravel • Python • Django • FastAPI • Go
+      Backend: Python  • FastAPI • Django • Node.js • Express.js • TypeScript • PHP • Laravel • Go
       
       Databases: MySQL • MongoDB • PostgreSQL • Vector Storage
       
